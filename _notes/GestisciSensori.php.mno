@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:ID;datatype:int,name:MARCA;datatype:string,name:TIPO;datatype:string,name:VAL_MIN;datatype:int,name:VAL_MAX;datatype:int,name:COORDINATE;datatype:string,name:IDsito;datatype:int" />
+</info>
